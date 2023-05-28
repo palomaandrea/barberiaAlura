@@ -1,5 +1,23 @@
-body{
+body {
+
+}
+
+.principal{
     background: #CCCCCC;
+    padding: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
 }
 
 #banner{
@@ -20,4 +38,15 @@ em strong{
 
 #mision{
     font-size: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
 }
